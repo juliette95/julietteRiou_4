@@ -776,8 +776,12 @@ h4 {
 }
 
 .tc-white {
-    color: /* #F3976C*/ #FEF6F3 !important;
-}*/ 
+    color:  #F3976C!important;
+}
+
+.accessibilite-color{
+    color: #FEF6F3 !important;  
+}
 
 .btn-atomic-tangerine {
     background: #F3976C;
@@ -789,9 +793,9 @@ h4 {
     color: #FFFFFF!important;
 }
 
-.bouton-submit{
+/*.bouton-submit{
     background-color:  #B37053;
-}
+}*/ 
 
 .ltc-white {
     color: #FFFFFF!important;
