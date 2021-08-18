@@ -826,6 +826,13 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+.citation
+{
+    font-style: italic;
+    font-size: 20px;
+    color: blue; 
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -903,8 +910,8 @@ h4 {
     h6,
     p,
     #disqus_thread {
-        padding-left: 10px!important;
-        padding-right: 10px!important;
+        padding-left: 30px!important;
+        padding-right: 30px!important;
     }
     .b-parallax {
         background-attachment: scroll;
@@ -1010,6 +1017,8 @@ h4 {
     }
     .voffset-lg {
         margin-top: 30px;
+        padding-right: 40px;
+        padding-left: 40px;
     }
     form {
         padding: 5px;
@@ -1034,10 +1043,12 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+    
 }
 
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
     }
+   
 }
