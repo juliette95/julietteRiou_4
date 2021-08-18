@@ -366,7 +366,7 @@ a:hover {
     .site-navigation {
         position: absolute;
         top: 50%;
-        right: 20px;
+        right: 10%;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
@@ -655,9 +655,9 @@ a {
     text-align: center; 
 }
 
-.container {
+/*.container {
     max-width: 1000px;
-}
+}*/ 
 
 .hero-bloc-text {
     font-size: 38px;
@@ -777,7 +777,7 @@ h4 {
 
 .tc-white {
     color: /* #F3976C*/ #FEF6F3 !important;
-}
+}*/ 
 
 .btn-atomic-tangerine {
     background: #F3976C;
